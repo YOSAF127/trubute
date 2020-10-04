@@ -1,0 +1,29 @@
+h1 {
+  font-family: lobster, sans-serif;
+  font-size: 75px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  color: #FFFFFF;
+  background-image: url(https://photojournal.jpl.nasa.gov/jpegMod/PIA20920_modest.jpg);
+  
+  #image {
+    height: 300px;
+    max width: 100%;
+  }
+  
+  p {
+    text-indent: 5em;
+    font-family: sans-serif;
+    text-align: left;
+  }
+  
+  #tribute-link {
+    text-size: 25px;
+  }
